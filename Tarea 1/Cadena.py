@@ -7,7 +7,14 @@ class Cadena:
     
     #Verifica que la cadena no contenga números
     def validar(self):
-        return any(char.isdigit() for char in self.__cadena) 
+        r = [False, ""]
+        if len(self.__cadena)> 150:
+            r = [True, "Largo de la cadena excede el largo válido"]
+        elif any(char.isdigit() for char in self.__cadena):
+            r = [True, "Cadena con caracteres numéricos"]
+        elif self.__cadena == "":
+            r = [True, "Cadena vacía"]
+        return r
 
     #Comprime la cadena
     def comprimir(self):

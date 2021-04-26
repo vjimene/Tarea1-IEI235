@@ -1,0 +1,45 @@
+2021-04-21 15:08:02,189 - ejemplo_Log - INFO - comienza el programa
+2021-04-21 15:08:07,148 - ejemplo_Log - INFO - Entrada 1: jjjjjjjhhhhhgdgdvbab válida. Valor obtenido: j7h5g1d1g1d1v1b1a1b1
+2021-04-21 15:08:10,382 - ejemplo_Log - ERROR - Entrada 1: jjjj7 inválida
+2021-04-21 15:08:15,292 - ejemplo_Log - INFO - Entrada 1: jhkslf válida. Valor obtenido: jhkslf
+2021-04-21 16:20:45,330 - ejemplo_Log - INFO - comienza el programa
+2021-04-21 16:20:48,020 - ejemplo_Log - INFO - Entrada 1: jjjjjjjjhlllkkmmmnnbbbdhhhajjjjjj válida. Valor obtenido: j8h1l3k2m3n2b3d1h3a1j6
+2021-04-21 16:42:09,262 - ejemplo_Log - INFO - comienza el programa
+2021-04-21 16:42:17,605 - ejemplo_Log - INFO - comienza el programa
+2021-04-21 16:42:22,810 - ejemplo_Log - INFO - comienza el programa
+2021-04-21 16:42:53,491 - ejemplo_Log - INFO - comienza el programa
+2021-04-21 16:45:15,936 - ejemplo_Log - INFO - comienza el programa
+2021-04-21 16:50:03,870 - ejemplo_Log - INFO - comienza el programa
+2021-04-25 20:20:26,997 - ejemplo_Log - INFO - comienza el programa
+2021-04-25 20:20:33,490 - ejemplo_Log - INFO - Entrada 1: AaaaaaEeeeeeIiiiiii válida. Valor obtenido: A1a5E1e5I1i6
+2021-04-25 20:21:12,898 - ejemplo_Log - INFO - comienza el programa
+2021-04-25 20:21:17,391 - ejemplo_Log - INFO - Entrada 1: aaaaaaeeeeeeiiiii válida. Valor obtenido: a6e6i5
+2021-04-25 20:21:30,578 - ejemplo_Log - INFO - comienza el programa
+2021-04-25 20:21:36,852 - ejemplo_Log - INFO - Entrada 1: iiiiààààááá válida. Valor obtenido: i4à4á3
+2021-04-25 20:22:28,964 - ejemplo_Log - INFO - comienza el programa
+2021-04-25 20:22:33,538 - ejemplo_Log - INFO - Entrada 1: ññññññññññ válida. Valor obtenido: ñ10
+2021-04-25 20:22:53,286 - ejemplo_Log - INFO - comienza el programa
+2021-04-25 20:22:55,983 - ejemplo_Log - INFO - Entrada 1:             válida. Valor obtenido:  11
+2021-04-25 20:23:10,986 - ejemplo_Log - INFO - comienza el programa
+2021-04-25 20:23:13,781 - ejemplo_Log - INFO - Entrada 1: ,,,,,,, válida. Valor obtenido: ,7
+2021-04-26 19:22:14,065 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:23:25,484 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:23:38,436 - ejemplo_Log - INFO - Fin ejecución
+2021-04-26 19:35:33,990 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:35:39,950 - ejemplo_Log - INFO - Fin ejecución
+2021-04-26 19:36:14,146 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:40:58,748 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:41:02,356 - ejemplo_Log - INFO - Entrada 1: jajaja válida. Valor obtenido: jajaja
+2021-04-26 19:42:08,394 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:42:09,760 - ejemplo_Log - ERROR - Entrada 1:  inválida
+2021-04-26 19:42:10,718 - ejemplo_Log - ERROR - Entrada 1:  inválida
+2021-04-26 19:48:21,472 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:48:22,212 - ejemplo_Log - ERROR - Entrada 1:  inválida cadena vacía
+2021-04-26 19:48:48,082 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:48:50,380 - ejemplo_Log - ERROR - Entrada 1:  inválida Cadena vacía
+2021-04-26 19:48:53,305 - ejemplo_Log - ERROR - Entrada 1: 1111 inválida Cadena con caracteres numéricos
+2021-04-26 19:49:13,462 - ejemplo_Log - ERROR - Entrada 1: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh inválida Largo de la cadena excede el largo válido
+2021-04-26 19:49:39,766 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:49:51,042 - ejemplo_Log - INFO - comienza el programa
+2021-04-26 19:49:55,445 - ejemplo_Log - INFO - Entrada 1: hhhh válida. Valor obtenido: h4
+2021-04-26 19:49:59,741 - ejemplo_Log - INFO - Entrada 1: hhffggdd válida. Valor obtenido: h2f2g2d2
