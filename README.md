@@ -16,7 +16,7 @@ Una vez descargada la carpeta
 ```sh
 python3 Main.py
 ```
-2. Desde símbolos del sistema: ir a la carpeta que contiene el código y ejecutar alguno de los siguientes comandos
+2. Desde símbolos del sistema (windows): ir a la carpeta que contiene el código y ejecutar alguno de los siguientes comandos
 ```sh
 python Main.py
 py Main.py
