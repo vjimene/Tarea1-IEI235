@@ -9,11 +9,11 @@ class Cadena:
     def validar(self):
         r = [False, ""]
         if len(self.__cadena)> 150:
-            r = [True, "Largo de la cadena excede el largo válido (150 caracteres)"]
+            r = [True, "Error, cadena esperada muy larga"]
         elif any(char.isdigit() for char in self.__cadena):
-            r = [True, "Cadena con caracteres numéricos"]
+            r = [True, "Error, cadena ingresada inválida"]
         elif self.__cadena == "":
-            r = [True, "Cadena vacía"]
+            r = [True, "Error, cadena ingresada inválida"]
         return r
 
     #Comprime la cadena
