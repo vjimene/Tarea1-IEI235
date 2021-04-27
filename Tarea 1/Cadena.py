@@ -9,7 +9,7 @@ class Cadena:
     def validar(self):
         r = [False, ""]
         if len(self.__cadena)> 150:
-            r = [True, "Largo de la cadena excede el largo válido"]
+            r = [True, "Largo de la cadena excede el largo válido (150 caracteres)"]
         elif any(char.isdigit() for char in self.__cadena):
             r = [True, "Cadena con caracteres numéricos"]
         elif self.__cadena == "":
